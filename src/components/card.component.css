@@ -1,0 +1,36 @@
+.card-container {
+    margin: 5%;
+    padding: 5%;
+    background-color: white;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    min-height: 150px;
+    justify-content: center;
+}
+
+.card-movie-name {
+    color: steelblue;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.release-date {
+    color: gray;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.star-img {
+    width: 20px;
+    height: 20px;
+}
+
+.rating-text {
+    color: darkgoldenrod;
+    font-weight: bold;
+    align-items: center;
+    display: flex;
+    margin-top: 5px;
+}

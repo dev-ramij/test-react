@@ -1,0 +1,21 @@
+.container {
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.welcome-header {
+    font-size: 50px;
+    color: gray;
+    font-weight: bold;
+}
+
+.movie-list-link {
+    color: dodgerblue;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-top: 10px;
+    cursor: pointer;
+}
